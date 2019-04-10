@@ -1,0 +1,212 @@
+body,
+html{
+    min-width: 1440px;
+    min-height: 2476px;
+}
+
+body{
+
+        background-image: url("../img/bg.jpg");
+        background-size: 1440px auto;
+        background-repeat: no-repeat;
+        background-position: center top;
+
+}
+
+/*------header------*/
+.main-header{
+    background: rgba(76, 255, 100, 0.2);
+    box-shadow: 0 0 0 1px #42ff1d;
+
+}
+
+.main-navigation{
+    background: rgba(255, 3, 12, 0.55);
+    box-shadow: 0 0 0 1px red;
+}
+
+.main-header-logo{
+    background: rgba(240, 255, 16, 0.2);
+    box-shadow: 0 0 0 1px yellow;
+}
+
+.site-navigation{
+    background: rgba(240, 255, 16, 0.2);
+    box-shadow: 0 0 0 1px yellow;
+}
+
+.user-navigation{
+    background: rgba(240, 255, 16, 0.2);
+    box-shadow: 0 0 0 1px yellow;
+}
+
+.main-navigation .container{
+    background: rgba(22, 22, 255, 0.2);
+    box-shadow: 0 0 0 1px #3245ff;
+
+    /*min-height: 70px;*/
+}
+
+
+/*------main------*/
+.main{
+    background: rgba(240, 255, 16, 0.2);
+    box-shadow: 0 0 0 1px green;
+}
+
+.hr-block{
+    background: rgba(66, 255, 29, 0.2);
+    box-shadow: 0 0 0 1px green;
+    min-height: 4px;
+}
+
+/*------slider------*/
+.slider{
+   /* background: rgba(22, 22, 255, 0.2);
+    box-shadow: 0 0 0 1px #3245ff;*/
+}
+
+.slider-text-block{
+    background: rgba(240, 255, 16, 0.2);
+    box-shadow: 0 0 0 1px yellow;
+}
+
+
+.slider-img{
+    background: rgba(240, 255, 16, 0.2);
+    box-shadow: 0 0 0 1px yellow;
+}
+
+
+/*------services------*/
+.services{
+    background: rgba(255, 3, 12, 0.55);
+    box-shadow: 0 0 0 1px red;
+    min-height: 345px;
+}
+
+.services-list{
+    background: rgba(22, 22, 255, 0.2);
+    box-shadow: 0 0 0 1px #3245ff;
+    min-height: 345px;
+}
+.services-item{
+    background: rgba(240, 255, 16, 0.2);
+    box-shadow: 0 0 0 1px yellow;
+}
+
+/*------info-block------*/
+.info-block{
+    background: rgba(22, 22, 255, 0.2);
+    box-shadow: 0 0 0 1px #3245ff;
+}
+
+.cut-away{
+    background: rgba(240, 255, 16, 0.2);
+    box-shadow: 0 0 0 1px yellow;
+   /* min-height: 350px;
+*/}
+
+.company-statistic{
+    background: rgba(240, 255, 16, 0.2);
+    box-shadow: 0 0 0 1px yellow;
+}
+
+.company-statistic{
+    background: rgba(240, 255, 16, 0.2);
+    box-shadow: 0 0 0 1px #ff1a8c;
+   /* min-height: 350px;
+*/}
+
+.company-statistic-img{
+    background: rgba(66, 255, 29, 0.2);
+    box-shadow: 0 0 0 1px green;
+    min-height: 208px;
+}
+/*.company-statistic-list{
+    background: rgba(22, 22, 255, 0.2);
+    box-shadow: 0 0 0 1px #3245ff;
+    min-height: 120px;
+}*/
+
+.company-statistic b{
+    background: rgba(255, 3, 12, 0.55);
+    box-shadow: 0 0 0 1px red;
+
+}
+
+.company-statistic-item{
+    background: rgba(22, 22, 255, 0.2);
+    box-shadow: 0 0 0 1px #3245ff;
+
+}
+
+/*------logotypes------*/
+.logotypes{
+    background: rgba(66, 255, 29, 0.2);
+    box-shadow: 0 0 0 1px green;
+   /* min-height: 180px;*/
+}
+
+.logotypes-list li{
+    background: rgba(22, 22, 255, 0.2);
+    box-shadow: 0 0 0 1px #3245ff;
+    /*min-height: 180px*/
+}
+
+/*------footer------*/
+
+.main-footer {
+    background: rgba(255, 3, 12, 0.55);
+    box-shadow: 0 0 0 1px red;
+}
+
+.contact{
+    background: rgba(22, 22, 255, 0.2);
+    box-shadow: 0 0 0 1px #3245ff;
+}
+
+.contact-block {
+    background: rgba(92, 255, 78, 0.55);
+    box-shadow: 0 0 0 1px #5dff35;
+   /* min-height: 305px;*/
+}
+
+.adress-block{
+    background: rgba(92, 255, 78, 0.55);
+    box-shadow: 0 0 0 1px #5dff35;
+    /*min-height: 190px;*/
+}
+
+.adress-content{
+    background: rgba(255, 3, 12, 0.55);
+    box-shadow: 0 0 0 1px red;
+    min-height: 210px;
+}
+
+.map-block{
+    background: rgba(92, 255, 78, 0.55);
+    box-shadow: 0 0 0 1px #5dff35;
+   /* min-height: 190px;*/
+}
+
+.social{
+    background: rgba(92, 255, 78, 0.55);
+    box-shadow: 0 0 0 1px #5dff35;
+    min-height: 215px;
+}
+
+.social-list{
+    background: rgba(22, 22, 255, 0.2);
+    box-shadow: 0 0 0 1px #3245ff;
+}
+
+.social-list li{
+    background: rgba(255, 3, 12, 0.55);
+    box-shadow: 0 0 0 1px red;
+}
+
+.footer-text{
+    background: rgba(92, 255, 78, 0.55);
+    box-shadow: 0 0 0 1px #5dff35;
+}
